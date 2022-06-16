@@ -1,8 +1,10 @@
 {
   "show":"yes",
-  "main-text":"New Version V1.01 Available!",
+  "main-text":"New Version V1.02 Available!",
   "added":{
    "1":"added dark theme",
-   "2":"added new look design"
+   "2":"added new look design",
+   "3":"added settings page",
+   "4":"added event page"
   }
 }
